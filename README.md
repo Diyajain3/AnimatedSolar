@@ -11,7 +11,7 @@ This project is currently in development progress, focusing on cinematic animati
 3.🪐 GSAP animation structure setup
 4.🌌 UI layout for space-themed experience
 
-# Future updates will include full orbital system, advanced ScrollTrigger scenes, and performance optimizations.
+Future updates will include full orbital system, advanced ScrollTrigger scenes, and performance optimizations.
 
 # 💡 Goal of the Project
 To transform traditional learning of astronomy into a visual storytelling experience using modern web animation tools like GSAP.
