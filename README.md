@@ -1,16 +1,19 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# 🌌 GSAP Animated Solar System
+An interactive Solar System visualization website built using GSAP (GreenSock Animation Platform).
+This project is currently in development progress, focusing on cinematic animations and scroll-based storytelling to explain the solar system in an engaging way.
 
-Currently, two official plugins are available:
+# 🚀 Project Status
+🟡 In Progress
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+# Current work includes:
+1.🌞 Sun intro animation (scroll + timeline based)
+2.🌍 Basic planet transition scenes
+3.🪐 GSAP animation structure setup
+4.🌌 UI layout for space-themed experience
 
-## React Compiler
+Future updates will include full orbital system, advanced ScrollTrigger scenes, and performance optimizations.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+# 💡 Goal of the Project
+To transform traditional learning of astronomy into a visual storytelling experience using modern web animation tools like GSAP.
+>>>>>>> 5130a2dcc0164a2820b2a997cc5b3908642a7b69
