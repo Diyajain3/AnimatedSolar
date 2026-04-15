@@ -7,7 +7,7 @@ This project is currently in development progress, focusing on cinematic animati
 🟡 In Progress
 
 # Current work includes:
-1.🌞 Sun intro animation (scroll + timeline based)
+1.🌞 Sun intro animation (scroll + timeline based) 
 2.🌍 Basic planet transition scenes
 3.🪐 GSAP animation structure setup
 4.🌌 UI layout for space-themed experience
@@ -16,4 +16,4 @@ Future updates will include full orbital system, advanced ScrollTrigger scenes, 
 
 # 💡 Goal of the Project
 To transform traditional learning of astronomy into a visual storytelling experience using modern web animation tools like GSAP.
->>>>>>> 5130a2dcc0164a2820b2a997cc5b3908642a7b69
+
